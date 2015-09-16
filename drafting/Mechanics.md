@@ -1,6 +1,6 @@
 Constructed deck-building game. Each player assembles a deck which becomes the supply for the game. Players may purchase cards from their supply row or a limited portion of their opponents supply row.
 
-Card types include Followers, Rituals and Horrors. Followers are the main part of your deck that provide gold and special abilities. Rituals earn you Omens by spending a certain amount of gold. Horrors are negative cards that are shuffled into your opponents deck rather than your own.
+Card types include Followers, Rituals and Horrors. Followers are the main part of your deck that provide gold and special abilities. Rituals earn you Omens by spending a certain amount of gold (Paying a price not nessesarily gold. Could be a sacrifice). Horrors are negative cards that are shuffled into your opponents deck rather than your own.
 
 On your turn you will
 1) suffer the consequences of any horrors
