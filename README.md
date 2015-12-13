@@ -1,4 +1,3 @@
-# Dominus 
-# Antiquis
+#Occultum
 
-A deck-building deck-building collectible card game between two cults attempting to summon their ancient one into the world.
+A deck-building deck-building collectible card game between two cults attempting to summon their dark elder god into the world.
