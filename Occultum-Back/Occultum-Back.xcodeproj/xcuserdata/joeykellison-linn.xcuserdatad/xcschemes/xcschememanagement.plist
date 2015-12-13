@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Occultum.xcscheme</key>
+		<key>Occultum-Back.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>92BBD89B1C1CA7F0005353A3</key>
+		<key>92BBD8B01C1CA8BC005353A3</key>
 		<dict>
 			<key>primary</key>
 			<true/>

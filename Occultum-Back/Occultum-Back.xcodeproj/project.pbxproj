@@ -1,0 +1,276 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		92BBD8DF1C1CDDD5005353A3 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92BBD8D81C1CDDD5005353A3 /* Card.swift */; };
+		92BBD8E01C1CDDD5005353A3 /* CardDefs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92BBD8D91C1CDDD5005353A3 /* CardDefs.swift */; };
+		92BBD8E11C1CDDD5005353A3 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92BBD8DA1C1CDDD5005353A3 /* Game.swift */; };
+		92BBD8E31C1CDDD5005353A3 /* Move.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92BBD8DC1C1CDDD5005353A3 /* Move.swift */; };
+		92BBD8E41C1CDDD5005353A3 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92BBD8DD1C1CDDD5005353A3 /* Player.swift */; };
+		92BBD8E51C1CDDD5005353A3 /* TextController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92BBD8DE1C1CDDD5005353A3 /* TextController.swift */; };
+		92BBD8E71C1CFD45005353A3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92BBD8E61C1CFD45005353A3 /* main.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		92BBD8AF1C1CA8BC005353A3 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		92BBD8B11C1CA8BC005353A3 /* Occultum-Back */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Occultum-Back"; sourceTree = BUILT_PRODUCTS_DIR; };
+		92BBD8BB1C1CA8E3005353A3 /* Occultum-Game */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Occultum-Game"; sourceTree = "<group>"; };
+		92BBD8BC1C1CA8EB005353A3 /* Occultum-JSON-Controller */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Occultum-JSON-Controller"; sourceTree = "<group>"; };
+		92BBD8D61C1CD6C2005353A3 /* Occultum-Text-View */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Occultum-Text-View"; sourceTree = "<group>"; };
+		92BBD8D81C1CDDD5005353A3 /* Card.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Card.swift; path = "Occultum-Game/Card.swift"; sourceTree = "<group>"; };
+		92BBD8D91C1CDDD5005353A3 /* CardDefs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CardDefs.swift; path = "Occultum-Game/CardDefs.swift"; sourceTree = "<group>"; };
+		92BBD8DA1C1CDDD5005353A3 /* Game.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Game.swift; path = "Occultum-Game/Game.swift"; sourceTree = "<group>"; };
+		92BBD8DC1C1CDDD5005353A3 /* Move.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Move.swift; path = "Occultum-Game/Move.swift"; sourceTree = "<group>"; };
+		92BBD8DD1C1CDDD5005353A3 /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Player.swift; path = "Occultum-Game/Player.swift"; sourceTree = "<group>"; };
+		92BBD8DE1C1CDDD5005353A3 /* TextController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TextController.swift; path = "Occultum-Game/TextController.swift"; sourceTree = "<group>"; };
+		92BBD8E61C1CFD45005353A3 /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = main.swift; path = "Occultum-Game/main.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		92BBD8AE1C1CA8BC005353A3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		92BBD8A81C1CA8BC005353A3 = {
+			isa = PBXGroup;
+			children = (
+				92BBD8D71C1CDDBF005353A3 /* Occultum-Game */,
+				92BBD8D61C1CD6C2005353A3 /* Occultum-Text-View */,
+				92BBD8BC1C1CA8EB005353A3 /* Occultum-JSON-Controller */,
+				92BBD8BB1C1CA8E3005353A3 /* Occultum-Game */,
+				92BBD8B21C1CA8BC005353A3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		92BBD8B21C1CA8BC005353A3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				92BBD8B11C1CA8BC005353A3 /* Occultum-Back */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		92BBD8D71C1CDDBF005353A3 /* Occultum-Game */ = {
+			isa = PBXGroup;
+			children = (
+				92BBD8D81C1CDDD5005353A3 /* Card.swift */,
+				92BBD8D91C1CDDD5005353A3 /* CardDefs.swift */,
+				92BBD8DA1C1CDDD5005353A3 /* Game.swift */,
+				92BBD8DC1C1CDDD5005353A3 /* Move.swift */,
+				92BBD8E61C1CFD45005353A3 /* main.swift */,
+				92BBD8DD1C1CDDD5005353A3 /* Player.swift */,
+				92BBD8DE1C1CDDD5005353A3 /* TextController.swift */,
+			);
+			name = "Occultum-Game";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		92BBD8B01C1CA8BC005353A3 /* Occultum-Back */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 92BBD8B81C1CA8BC005353A3 /* Build configuration list for PBXNativeTarget "Occultum-Back" */;
+			buildPhases = (
+				92BBD8AD1C1CA8BC005353A3 /* Sources */,
+				92BBD8AE1C1CA8BC005353A3 /* Frameworks */,
+				92BBD8AF1C1CA8BC005353A3 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Occultum-Back";
+			productName = "Occultum-Back";
+			productReference = 92BBD8B11C1CA8BC005353A3 /* Occultum-Back */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		92BBD8A91C1CA8BC005353A3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0710;
+				LastUpgradeCheck = 0710;
+				ORGANIZATIONNAME = JoeyKL;
+				TargetAttributes = {
+					92BBD8B01C1CA8BC005353A3 = {
+						CreatedOnToolsVersion = 7.1;
+					};
+				};
+			};
+			buildConfigurationList = 92BBD8AC1C1CA8BC005353A3 /* Build configuration list for PBXProject "Occultum-Back" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 92BBD8A81C1CA8BC005353A3;
+			productRefGroup = 92BBD8B21C1CA8BC005353A3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				92BBD8B01C1CA8BC005353A3 /* Occultum-Back */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		92BBD8AD1C1CA8BC005353A3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				92BBD8E31C1CDDD5005353A3 /* Move.swift in Sources */,
+				92BBD8E71C1CFD45005353A3 /* main.swift in Sources */,
+				92BBD8DF1C1CDDD5005353A3 /* Card.swift in Sources */,
+				92BBD8E11C1CDDD5005353A3 /* Game.swift in Sources */,
+				92BBD8E41C1CDDD5005353A3 /* Player.swift in Sources */,
+				92BBD8E01C1CDDD5005353A3 /* CardDefs.swift in Sources */,
+				92BBD8E51C1CDDD5005353A3 /* TextController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		92BBD8B61C1CA8BC005353A3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		92BBD8B71C1CA8BC005353A3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		92BBD8B91C1CA8BC005353A3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		92BBD8BA1C1CA8BC005353A3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		92BBD8AC1C1CA8BC005353A3 /* Build configuration list for PBXProject "Occultum-Back" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				92BBD8B61C1CA8BC005353A3 /* Debug */,
+				92BBD8B71C1CA8BC005353A3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		92BBD8B81C1CA8BC005353A3 /* Build configuration list for PBXNativeTarget "Occultum-Back" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				92BBD8B91C1CA8BC005353A3 /* Debug */,
+				92BBD8BA1C1CA8BC005353A3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 92BBD8A91C1CA8BC005353A3 /* Project object */;
+}

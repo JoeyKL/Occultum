@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "92FF72831C16740A00321FD6"
-               BuildableName = "Occultum-Server"
-               BlueprintName = "Occultum-Server"
-               ReferencedContainer = "container:Occultum-Server.xcodeproj">
+               BlueprintIdentifier = "92BBD8B01C1CA8BC005353A3"
+               BuildableName = "Occultum-Back"
+               BlueprintName = "Occultum-Back"
+               ReferencedContainer = "container:Occultum-Back.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "92FF72831C16740A00321FD6"
-            BuildableName = "Occultum-Server"
-            BlueprintName = "Occultum-Server"
-            ReferencedContainer = "container:Occultum-Server.xcodeproj">
+            BlueprintIdentifier = "92BBD8B01C1CA8BC005353A3"
+            BuildableName = "Occultum-Back"
+            BlueprintName = "Occultum-Back"
+            ReferencedContainer = "container:Occultum-Back.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "92FF72831C16740A00321FD6"
-            BuildableName = "Occultum-Server"
-            BlueprintName = "Occultum-Server"
-            ReferencedContainer = "container:Occultum-Server.xcodeproj">
+            BlueprintIdentifier = "92BBD8B01C1CA8BC005353A3"
+            BuildableName = "Occultum-Back"
+            BlueprintName = "Occultum-Back"
+            ReferencedContainer = "container:Occultum-Back.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "92FF72831C16740A00321FD6"
-            BuildableName = "Occultum-Server"
-            BlueprintName = "Occultum-Server"
-            ReferencedContainer = "container:Occultum-Server.xcodeproj">
+            BlueprintIdentifier = "92BBD8B01C1CA8BC005353A3"
+            BuildableName = "Occultum-Back"
+            BlueprintName = "Occultum-Back"
+            ReferencedContainer = "container:Occultum-Back.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
