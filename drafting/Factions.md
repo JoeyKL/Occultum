@@ -1,31 +1,47 @@
-# The Deep One
-* Insanity punishment
+
+Themes:
+* H.P. Lovecraft: Cthulhu, Elder Gods, Ancient Horrors, Madness
+* Alchemy/Occultism: Pentagrams, rituals, transformation and summoning
+* Cabal/Secret society: Illuminati, Free Masons
+
+
+# Terror - Black - Squid
+##Mechanics
+* Punishing opponent with insanity
 * Mind control
-* Ocean monsters
+* Psychosis horrors
+##Inspirations
+* Lovecraftian
+* Cosmic tentacle horrors from the deep
 
-# The Broken One
-* Clockwork contraptions (Technology)
-* Efficiency
-* Aristocracy
-* Replace world leaders with clockwork replicas
-* Victorian
+# Contempt - White - Eagle
+##Mechanics
+* Trashing
+##Inspirations
+* Victorian nobility
+* Cabals, Illuminati, Free Masons, Secret Societies
+* New World Order, conspiracy
 
-# The Lost One
-* Stars/celestial beings
-* Light and dark
-* Healing
-* Latin
+# Despair - Blue Purple - Rat
+##Mechanics
+* Engine (+draw & +actions) to perform big rituals
+##Inspirations
+* Celestial/cosmic beings, Light and dark
+* Occultism
 
-# The Chained One
-* Beasts
-* Combat Based
-* Attacks and damage
-* Gothic
-* Take over world through an iron fist? Dictatorship?
+# Rage - Orange Red - Wolf
+##Mechanics
+* Aggression monsters
+* Transformation
+##Themes
+* Huge gothic beasts, Druids
 
-# The Mad One
-* Gibbering masses of flesh
-* Mass insanity
-* Think Humunculus in FMA
-* Drive the world into Insanity?
-* Some people just want to watch the world burn?
+# Fervor - Green Blue - Locust 
+##Mechanics
+* Rush
+* Payment through insanity
+##Themes
+* Agitated crowds, mass hysteria
+
+
+
